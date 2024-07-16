@@ -1,0 +1,1 @@
+This project is meant to demonstrate basic HTML knowledge through a recipe book website. This website contains links to a few recipes.
